@@ -406,6 +406,7 @@ color: #fff;
       flex-direction: column;
       display: flex;
       align-self: center;
+        height: 275px;
     }
     .questions-grid{
         flex-direction: column;
@@ -442,6 +443,7 @@ color: #fff;
       flex-direction: column;
       display: flex;
       align-self: center;
+        height: 275px;
     }
     .questions-grid{
         flex-direction: column;
@@ -469,7 +471,7 @@ color: #fff;
     }
     .question {
         width:90vw;
-    
+    height: 275px;
       align-self: center;
     }
     .questions-grid{
@@ -499,6 +501,7 @@ color: #fff;
       display: flex;
       flex-direction: column;
        align-self: center;
+        height: 275px;
     }
     .questions-grid{
         flex-direction: column;
