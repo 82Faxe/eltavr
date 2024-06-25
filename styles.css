@@ -441,6 +441,15 @@ color: #fff;
         flex-direction: column;
         display: flex;
     }
+    .navbar li {
+        margin-right: 30px;
+    }
+    .navbar a {
+        font-size: 16px;
+    }
+    h1 {
+        font-size: 26px ;
+    }
   }
   
   @media only screen and (max-width: 768px) {
@@ -461,6 +470,13 @@ color: #fff;
         flex-direction: column;
         display: flex;
     }
+    .navbar li {
+        margin-right: 20px;
+    }
+    .navbar a {
+        font-size: 14px;
+    }
+    
   }
   
   @media only screen and (max-width: 480px) {
@@ -481,6 +497,15 @@ color: #fff;
     .questions-grid{
         flex-direction: column;
         display: flex;
+    }
+    .navbar li {
+        margin-right: 10px;
+    }
+    .navbar a {
+        font-size: 12px;
+    }
+    h1 {
+        font-size: 16px ;
     }
   }
   
